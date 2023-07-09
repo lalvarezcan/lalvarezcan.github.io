@@ -17,6 +17,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hello! I'm Luis, a dedicated engineer with a deep interest in mathematics, control theory, and machine learning. 
+Welcome! I'm Luis, an engineer with a deep love for technology and a knack for mathematics, control theory, and machine learning.
 
-Currently, I'm completing my dual PhD journey at Università degli Studi dell'Aquila in Italy and Centro de Investigación y de Estudios Avanzados del IPN in Mexico. I've always been drawn to the potentials of AI, robotics, and motor drives, and strive to use innovative technology to optimize these systems.
+Over the past five years, I've immersed myself in academic research, refining my skills and broadening my understanding of complex systems. Right now, I'm in the process of completing dual PhDs at Università degli Studi dell'Aquila and Centro de Investigación y de Estudios Avanzados del IPN - an exciting challenge that's shaping my academic journey.
+
+I'm passionate about AI and robotics, and I firmly believe in the power of innovation to transform these systems for the better.
+
+Here, you'll find a blend of my academic insights, professional experiences, and a showcase of my projects. I invite you to explore, engage with my work, and join me in navigating the thrilling world of tech.
