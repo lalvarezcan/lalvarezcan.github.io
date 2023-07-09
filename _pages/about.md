@@ -17,7 +17,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome! I'm Luis, an engineer with a deep love for technology and a knack for mathematics, control theory, and machine learning.
+Welcome! I'm Luis, an engineer with a deep interest in mathematics, control theory, and machine learning.
 
 Over the past five years, I've immersed myself in academic research, refining my skills and broadening my understanding of complex systems. Right now, I'm in the process of completing dual PhDs at Università degli Studi dell'Aquila and Centro de Investigación y de Estudios Avanzados del IPN - an exciting challenge that's shaping my academic journey.
 
